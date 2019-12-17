@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Todo Project
+ * A user can create a todo task and can work on it
 
 ## Available Scripts
 
